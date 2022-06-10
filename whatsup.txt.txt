@@ -16,3 +16,6 @@ driver.get("http://www.google.co.in");
 
 hiding last seen
 
+
+add video
+add audio
